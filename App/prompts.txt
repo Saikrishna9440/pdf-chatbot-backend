@@ -1,0 +1,21 @@
+=== Prompt 1: Zero-Shot ===
+Instruction: Summarize the following text in one sentence.
+Text: "Artificial Intelligence is transforming industries by automating tasks, improving decision-making, and enabling new innovations."
+
+=== Prompt 2: Few-Shot ===
+Instruction: Translate English sentences to French.
+Example 1:
+English: "Hello, how are you?"
+French: "Bonjour, comment ça va ?"
+
+Example 2:
+English: "I love learning new languages."
+French: "J'adore apprendre de nouvelles langues."
+
+Your turn:
+English: "The weather is nice today."
+French: 
+
+=== Prompt 3: With System Instructions ===
+System: You are a helpful assistant that always responds politely and provides concise answers.
+User: "Explain the difference between supervised and unsupervised learning."
