@@ -88,7 +88,7 @@ if __name__ == "__main__":
         upload_pdf()
 
     while True:
-        query = input("\nAsk a question (or type 'exit' to quit): ").strip()
+        query = input("\nAsk a question (or type 'exit' to quiyet): ").strip()
         if query.lower() == "exit":
             print("👋 Goodbye!")
             break
