@@ -4,3 +4,9 @@ faiss-cpu
 pymupdf
 fastapi
 google-generativeai
+qdrant-client
+numpy
+python-dotenv
+streamlit
+python-multipart
+uvicorn
